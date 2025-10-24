@@ -28,7 +28,7 @@
     * **Kişisel Not Defteriniz:** Fikirlerinizi, görevlerinizi veya ilham anlarınızı anında kaydedin, düzenleyin ve her yerden erişin.
     * **Proje Odaklı İşbirliği:** Ekip arkadaşlarınızla projeye özel notlar paylaşarak bilgi akışını kolaylaştırın.
 * **☁️ Sınırsız Google Drive Gücü:**
-    * **Güvenli Dosya Depolama:** Önemli dosyalarınızı kendi Google Drive hesabınızın güvenliğiyle saklayın ve yönetin.
+    * **Güvenli Dosya Depolama:** Önemli dosyalarınızı Google Drive hesabının güvenliğiyle saklayın ve yönetin.
     * **Merkezi Proje Dökümanları:** Tüm proje dosyalarınızı tek bir yerde toplayarak dağınıklığa son verin.
     * **Akıllı Kota Takibi:** Depolama alanınızı kolayca yönetin.
 * **🎨 Hızlı Görselleştirme:** Fikirlerinizi basit ve etkili çizim aracıyla anında dijital tuvale aktarın.
