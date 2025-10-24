@@ -49,7 +49,7 @@
 
 ## 🛠️ Teknik Detaylar (Meraklısına!)
 
-Celten, güvenilirlik ve performansı bir araya getiren modern web teknolojileriyle inşa edildi:
+Celnote, güvenilirlik ve performansı bir araya getiren modern web teknolojileriyle inşa edildi:
 
 * **Backend:** PHP (7.x Uyumlu)
 * **Frontend:** HTML5, CSS3, Vanilla JavaScript (Fetch API)
