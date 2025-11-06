@@ -25,8 +25,7 @@
 
 ## ✨ Neden CELTEN? İşte Öne Çıkanlar:
 
-* **🧠 Zahmetsiz Not Alma:**
-* 
+* **🧠 Zahmetsiz Not Alma:*** 
     * **Kişisel Not Defteriniz:** Fikirlerinizi, görevlerinizi veya ilham anlarınızı anında kaydedin, düzenleyin ve her yerden erişin.
     * **Proje Odaklı İşbirliği:** Ekip arkadaşlarınızla projeye özel notlar paylaşarak bilgi akışını kolaylaştırın.
 
