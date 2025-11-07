@@ -36,7 +36,7 @@
 
 * **🔔 Global Bildirim Sistemi (YENİ!):**
     * **Canlı Sayaç:** Yeni bir duyuru veya mesaj geldiğinde, bildirim butonundaki sayaç anında güncellenir.
-    * **Yönetici Duyuruları:** Süper Adminler, tüm kullanıcılara önemli duyurular (örn: "Sistem bakımı var") gönderebilir.
+    * **Yönetici Duyuruları:** Adminler, tüm kullanıcılara önemli duyurular (örn: "Sistem bakımı var") gönderebilir.
     * **Birleşik Modal:** Gelen kutunuzu, tüm okunmamış mesajları ve yönetici duyurularını tek bir modal üzerinden görüntüleyin.
     * **Kolay Temizlik:** Tek tıkla tüm mesaj bildirimlerini "okundu" olarak işaretleyin veya admin olarak yanlış gönderdiğiniz bir duyuruyu sistemden silin.
 
