@@ -17,7 +17,7 @@
 
 ---
 
-**CELTEN**, not almanın basitliğini, bulut depolamanın gücünü ve proje yönetiminin esnekliğini tek bir platformda birleştiren modern bir web uygulamasıdır. İster bireysel kullanıcı olun ister bir ekibin parçası, Celten dijital hayatınızı organize etmenize ve fikirlerinizi hayata geçirmenize yardımcı olmak için tasarlandı. Tüm hakları İdris Enes Kahraman'a aittir.
+**CELTEN**, not almanın basitliğini, bulut depolamanın gücünü ve proje yönetiminin esnekliğini tek bir platformda birleştiren modern bir web uygulamasıdır. İster bireysel kullanıcı olun ister bir ekibin parçası, Celten dijital hayatınızı organize etmenize ve fikirlerinizi hayata geçirmenize yardımcı olmak için tasarlandı. Tüm hakları Enes Kahraman'a aittir.
 
 ➡️ **Hemen Keşfedin: [https://celten.net](https://celten.net)**
 
