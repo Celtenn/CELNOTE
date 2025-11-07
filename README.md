@@ -29,10 +29,16 @@
     * **Kişisel Not Defteriniz:** Fikirlerinizi, görevlerinizi veya ilham anlarınızı anında kaydedin, düzenleyin ve her yerden erişin.
     * **Proje Odaklı İşbirliği:** Ekip arkadaşlarınızla projeye özel notlar paylaşarak bilgi akışını kolaylaştırın.
 
-* **💬 Anlık İletişim (YENİ!):**
+* **💬 Anlık İletişim:**
     * **1'e 1 Özel Mesajlaşma:** Diğer kullanıcılarla anlık ve özel olarak sohbet edin. Canlı güncelleme desteği (polling) sayesinde sayfayı yenilemeden yeni mesajları görün.
     * **Gelen Kutusu:** Okunmamış mesajları takip edin ve sohbetlerinizi "gizleyerek" (tek taraflı silme) gelen kutunuzu temiz tutun.
     * **Projeye Özel Grup Sohbeti:** Her proje, tüm üyelere özel, canlı bir grup sohbeti alanına sahiptir. Fikirleri anında tartışın ve proje ilerlemesini hızlandırın.
+
+* **🔔 Global Bildirim Sistemi (YENİ!):**
+    * **Canlı Sayaç:** Yeni bir duyuru veya mesaj geldiğinde, bildirim butonundaki sayaç anında güncellenir.
+    * **Yönetici Duyuruları:** Süper Adminler, tüm kullanıcılara önemli duyurular (örn: "Sistem bakımı var") gönderebilir.
+    * **Birleşik Modal:** Gelen kutunuzu, tüm okunmamış mesajları ve yönetici duyurularını tek bir modal üzerinden görüntüleyin.
+    * **Kolay Temizlik:** Tek tıkla tüm mesaj bildirimlerini "okundu" olarak işaretleyin veya admin olarak yanlış gönderdiğiniz bir duyuruyu sistemden silin.
 
 * **☁️ Sınırsız Google Drive Gücü:**
     * **Güvenli Dosya Depolama:** Önemli dosyalarınızı Google Drive hesabının güvenliğiyle saklayın ve yönetin.
