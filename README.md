@@ -85,7 +85,7 @@ Celten, güvenilirlik ve performansı bir araya getiren modern web teknolojileri
   
   <p>
     <a href="https://celten.net" target="_blank">
-      <img src="Untitled.png" alt="CELTEN.NET Karekod" width="480"/>
+      <img src="1761285362028.jpg" alt="CELTEN.NET Karekod" width="100"/>
     </a>
   </p>
   <p><strong><a href="https://celten.net" target="_blank">CELTEN.NET</a></strong></p>
