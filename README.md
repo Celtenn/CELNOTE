@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="1761285362028.jpg" alt="Celten Logo" width="100"/> 
+  <img src="Untitled.png" alt="Celten Logo" width="480"/> 
   <h1>🚀 CELTEN.NET 🚀</h1>
   <p><strong>Fikirleriniz, Dosyalarınız ve Projeleriniz İçin Yeni Nesil Dijital Alanınız</strong></p>
   <p>
