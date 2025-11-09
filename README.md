@@ -82,5 +82,11 @@ Celten, güvenilirlik ve performansı bir araya getiren modern web teknolojileri
 
 <div align="center">
   <p>✨ Fikirlerinizi hayata geçirmeye hazır mısınız? ✨</p>
+  
+  <p>
+    <a href="https://celten.net" target="_blank">
+      <img src="Untitled.png" alt="CELTEN.NET Karekod" width="120"/>
+    </a>
+  </p>
   <p><strong><a href="https://celten.net" target="_blank">CELTEN.NET</a></strong></p>
 </div>
