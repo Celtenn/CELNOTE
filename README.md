@@ -55,6 +55,7 @@
     * **Sohbet Moderasyonu:** Proje yöneticileri ve adminler, proje sohbet geçmişini tek tıkla herkes için temizleyebilir.
 
 * **🔒 Güvenlik ve Yönetim Önceliğimiz:**
+    * **Kişi Bazlı Yükleme Yetkisi:** Dosya yükleme ve silme yetkiniz, rolünüzden bağımsız olarak **Süper Admin** tarafından size özel olarak atanır. Yetkiniz yoksa dosya yükleyemez ve mevcut dosyalarınızı yönetemezsiniz.
     * **Yönetici Onaylı Sistem:** Platformunuza kimlerin katılacağını kontrol edin.
     * **Endüstri Standardı Şifreleme:** `bcrypt` ile güvende kalın.
     * **Giriş Güvenliği:** Brute force saldırılarına karşı koruma.
